@@ -16,6 +16,8 @@ temp = request.getParameter("val");
 if (temp != null) 
 	val = temp;
 
+//v2
+
 AppPref data = new AppPref();
 try {
     // ... do stuff with em ...
